@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.header {
+    background-color: rgb(55, 55, 104);
+    color: whitesmoke;
+    height: 80px;
+    position: sticky;
+    top: 0;
+}
+.pic{
+    position: relative;
+    bottom: 40px;
+    left: 10px;
+    
+    
+
+}
+
+.header li {
+    display: inline-block;
+    padding: 20px;
+    padding-top: 25px;
+    font-size: 13px;
+    padding-left: 30px;
+    
+}
+
+.header2 {
+    background-image: url("image.jpg");
+
+    height: 700px;
+    background-attachment: fixed;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    
+
+
+}
+.header2 ul{
+    margin-left: 70px;
+}
+
+.header2 li {
+    display: inline-block;
+    padding: 15px;
+    
+}
+
+.heading3 {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 30px;
+    padding-bottom: 10px;
+    
+}
+
+.heading4 {
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.container {
+    position: relative;
+    height: 10px;
+    width: 300px;
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 70px;
+
+
+
+}
+
+.box1 {
+    position: relative;
+    background-color: rgb(55, 55, 104);
+    left: 700px;
+    bottom: 200px;
+    padding: 40px;
+    color: white;
+    
+    
+    
+
+
+}
+
+.head1 {
+    color: rgba(255, 255, 255, 0.397);
+    font-size: small;
+    padding-bottom: 32px;
+    font-style: italic;
+    
+}
+
+.head2 {
+    font-size: 20px;
+    
+}
+
+.head3 {
+    font-size: 13px;
+}
+.head5{
+    background-color: rgba(255, 0, 0, 0.521);
+    font-size:18px;
+    width: 140px;
+    margin-top: 20px;
+}
+.head6 button{
+    background-color: rgb(55, 55, 104);
+    border: 2px solid white;
+    padding: 10px;
+    color: white;
+}
+.head6{
+    margin-top: 15px;
+}
+.hi{
+    width: 600px;
+    margin-top: 80px;
+}
+.box2{
+    font-size: 12px;
+    background-color:rgb(55, 55, 104) ;
+    position: relative;
+    height: 195px;
+    width: 250px;
+    color: rgba(255, 255, 255, 0.13);
+    text-align: center;
+    left:1000px;
+    bottom: 575px;
+    margin-left: 10px;
+    padding-top: 180px;
+   
+}
+.box3{
+    background-color: rgb(223, 187, 30) ;
+    width: 40vw;
+    height: 50vh;
+    position: absolute;
+    top: 380px;    
+    font-size: 20px;
+    color: black;
+
+}
+.box3 a img{
+  padding-left: 50px;
+  padding-top: 100px;
+  
+}
+.box4{
+    background-color: brown;
+    width: 40vw;
+    height: 34vh;
+    position: relative;
+    left: 580px;
+    bottom: 530px;
+    color: rgba(255, 255, 255, 0.829);
+    font-size: 20px;
+    text-align: center;
+    padding-top: 110px;
+    line-height: 90px;
+    
+}
+.box4 a{
+    color: aliceblue;
+    text-decoration: none;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+}
+.para{
+    font-size: 30px;
+    position: absolute;
+    top: 800px;
+    width: 30vw;
+
+}
+.para2 h2{
+    font-size: 23px;
+    color: rgb(175, 38, 38);
+    line-height: 40px;
+    width: 30vw;
+}
+.para2 p{
+    position: relative;
+    font-size: 17px;
+    word-spacing: 14px;
+    width: 30vw;
+    
+}
+.para2{
+    position: absolute;
+    top: 800px;
+    left: 460px;
+}
+.para3{
+    position: absolute;
+    top: 800px;
+    left: 900px;
+}
+.para3 h2{
+    color: rgb(175, 38, 38);
+    font-size: 23px;
+    width: 30vw;
+    line-height: 5vh;
+}
+.para3 li{
+    font-size: 17px;
+    line-height: 5vh;
+    font-weight: bold;
+    list-style: square;
+    
+}
